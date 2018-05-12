@@ -1,0 +1,36 @@
+_repo: The-College-the-Market-and-the-Courtor-Woman-s-relation-to-education-labor-and-law_43657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43657-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Dall, Caroline Wells Healey
+    aliases:
+    - Dall, Caroline Healey
+    - Dall, Caroline H.
+    - Healey, Caroline Wells
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '5122'
+    url: http://www.gutenberg.org/2009/agents/5122
+    wikipedia: http://www.pinn.net/~sunshine/whm2002/dall.html
+description: ''
+gutenberg_issued: '2013-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43657'
+  lccn: 09008703
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Legal status, laws, etc.'
+- !lcc 'HQ'
+- !lcsh 'Women -- Education'
+- !lcsh 'Women -- Employment'
+title: 'The College, the Market, and the Court
+
+  or, Woman''s relation to education, labor and law'
+url: http://www.gutenberg.org/ebooks/43657
