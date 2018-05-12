@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5122
     wikipedia: http://www.pinn.net/~sunshine/whm2002/dall.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43657#The-College-the-Market-and-the-Courtor-Woman-s-relation-to-education-labor-and-law
 gutenberg_issued: '2013-09-06'
 gutenberg_type: Text
 identifiers:
